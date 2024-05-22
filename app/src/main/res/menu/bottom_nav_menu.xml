@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/baseline_videocam_24"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/tickets"
+        android:title="@string/title_schedule" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/like"
+        android:title="@string/title_favorite" />
+
+    <item
+        android:id="@+id/navigation_my_page"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/title_my_page" />
+
+</menu>
